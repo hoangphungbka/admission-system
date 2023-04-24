@@ -12,6 +12,12 @@ class Controller extends BaseController
 
     public public function helloworld(): void
     {
-        // hello world xx
+        // hello world xx xxxx
     }
+
+    public public function helloworldxxxxx(): void
+    {
+        // hello world xx xxxx
+    }
+}
 }
